@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Azouz</h1>
+<h3 align="center">A passionate Front-End developer from Egypt 🇪🇬</h3>
 
-<!--
-**Azouz665/Azouz665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Flappy Bird JS Clone**
+- 👨‍💻 All of my projects are available at [My Portfolio](#)
+- 📫 How to reach me: **azouz.dev@gmail.com**
+- ⚡ Fun fact: I talk to computers more than humans 😄
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Azouz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azouz-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azouz-dev&layout=compact)
+
